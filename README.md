@@ -1,7 +1,7 @@
 ### Hi there, I'm Laxmikant Kulkarni 👋  
 ![](https://komarev.com/ghpvc/?username=LDKulkarni&color=green)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laxmikant%20Kulkarni-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laxmikant-kulkarni/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laxmikant%20Kulkarni-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laxmikant-kulkarni-745263240)
 [![GitHub](https://img.shields.io/badge/GitHub-LDKulkarni-black?style=for-the-badge&logo=github)](https://github.com/LDKulkarni)
 
 ---
