@@ -40,7 +40,7 @@
 
 ## 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LDKulkarni&bg_color=ffffff&color=0a66c2&line=6f42c1&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LDKulkarni&bg_color=ffffff&color=0a66c2&line=6f42c1&point=403d3d&area=true&hide_border=true)]
 
 ---
 
